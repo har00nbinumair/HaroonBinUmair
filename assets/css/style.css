@@ -443,7 +443,7 @@ a:hover{
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-        background-image: url(../images/portrait.png);
+        background-image: url(../images/portrait.webp);
     }
 
     .hero-content{
